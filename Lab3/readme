@@ -1,0 +1,3 @@
+gcc -g main.c driver.c -w -o out
+./out a.txt b.txt
+
